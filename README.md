@@ -78,3 +78,6 @@ Priyanshu Gupta
 - Clean and scalable test automation framework
 - Combination of manual + automation testing
 - Industry-standard project structure
+
+## 📊 Sample Test Report
+You can find a sample execution report in the `sample-report/` folder.
